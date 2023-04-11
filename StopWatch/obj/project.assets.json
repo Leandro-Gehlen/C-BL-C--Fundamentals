@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\net\\csharpfundamentos\\csharpfundamentos.csproj",
-      "projectName": "csharpfundamentos",
-      "projectPath": "C:\\dev\\net\\csharpfundamentos\\csharpfundamentos.csproj",
+      "projectUniqueName": "C:\\dev\\net\\micro-projects\\StopWatch\\StopWatch.csproj",
+      "projectName": "StopWatch",
+      "projectPath": "C:\\dev\\net\\micro-projects\\StopWatch\\StopWatch.csproj",
       "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\net\\csharpfundamentos\\obj\\",
+      "outputPath": "C:\\dev\\net\\micro-projects\\StopWatch\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config",
