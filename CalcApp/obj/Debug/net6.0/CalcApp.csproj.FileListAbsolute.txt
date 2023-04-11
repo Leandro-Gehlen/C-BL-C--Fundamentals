@@ -1,0 +1,15 @@
+C:\dev\net\micro-projects\CalcApp\obj\Debug\net6.0\CalcApp.csproj.AssemblyReference.cache
+C:\dev\net\micro-projects\CalcApp\obj\Debug\net6.0\CalcApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\net\micro-projects\CalcApp\obj\Debug\net6.0\CalcApp.AssemblyInfoInputs.cache
+C:\dev\net\micro-projects\CalcApp\obj\Debug\net6.0\CalcApp.AssemblyInfo.cs
+C:\dev\net\micro-projects\CalcApp\obj\Debug\net6.0\CalcApp.csproj.CoreCompileInputs.cache
+C:\dev\net\micro-projects\CalcApp\bin\Debug\net6.0\CalcApp.exe
+C:\dev\net\micro-projects\CalcApp\bin\Debug\net6.0\CalcApp.deps.json
+C:\dev\net\micro-projects\CalcApp\bin\Debug\net6.0\CalcApp.runtimeconfig.json
+C:\dev\net\micro-projects\CalcApp\bin\Debug\net6.0\CalcApp.dll
+C:\dev\net\micro-projects\CalcApp\bin\Debug\net6.0\ref\CalcApp.dll
+C:\dev\net\micro-projects\CalcApp\bin\Debug\net6.0\CalcApp.pdb
+C:\dev\net\micro-projects\CalcApp\obj\Debug\net6.0\CalcApp.dll
+C:\dev\net\micro-projects\CalcApp\obj\Debug\net6.0\ref\CalcApp.dll
+C:\dev\net\micro-projects\CalcApp\obj\Debug\net6.0\CalcApp.pdb
+C:\dev\net\micro-projects\CalcApp\obj\Debug\net6.0\CalcApp.genruntimeconfig.cache
